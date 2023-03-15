@@ -1,0 +1,46 @@
+h1{
+    font-size: 40px;
+    color: darkmagenta;
+    text-align: center;
+}
+#basquet{
+    font-size: 30px;
+    color: darkorange;
+    float: right;
+}
+#boley{
+    font-size: 30px;
+    color:dodgerblue;
+}
+#music{
+    font-size: 30px;
+    color: firebrick;
+   
+}
+#teatr{
+    font-size: 30px;
+    color: darksalmon;
+}
+#danz{
+    font-size: 30px;
+    color: darkviolet;
+    float: right;
+}
+#foot{
+    font-size: 30px;
+    color: black;
+}
+#pint{
+    font-size: 30px;
+    color: fuchsia;
+    float: right;
+}
+#escolt{
+    font-size: 30px;
+    color: darkslategray;
+}
+#banda{
+    font-size: 30px;
+    color: darkseagreen;
+    float: right;
+}
